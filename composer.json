@@ -1,0 +1,41 @@
+{
+    "name": "kanekescom/wilayah-indonesia",
+    "description": "Kode dan nama wilayah administratif di Indonesia",
+    "keywords": [
+        "indonesia",
+        "wilayah-indonesia",
+        "kode-wilayah-indonesia",
+        "wilayah-administratif",
+        "kode-wilayah"
+    ],
+    "homepage": "https://github.com/kanekescom/wilayah-indonesia",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achmad Hadi Kurnia",
+            "email": "imachmadhadikurnia@gmail.com",
+            "role": "Developer",
+            "homepage": "https://linktr.ee/achmadhadikurnia"
+        }
+    ],
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/achmadhadikurnia"
+        },
+        {
+            "type": "buymeacoffee",
+            "url": "https://s.id/hadibmac"
+        },
+        {
+            "type": "patreon",
+            "url": "https://s.id/hadipatreon"
+        },
+        {
+            "type": "saweria",
+            "url": "https://s.id/hadisaweria"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
